@@ -18,6 +18,8 @@ Looking at monthly trends for total fares Rural cities seemed to be the least vo
 ![image](https://github.com/jb-ut/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
-Because fares for rural city types are have the highest Average Fare per Ride the company could potentially try to add more drivers to rural areas to increase total fares. There may be a low threshold for adding drivers given that demand is low in rural areas.
+1. Because fares for rural city types are have the highest Average Fare per Ride the company could potentially try to add more drivers to rural areas to increase total fares. There may be a low threshold for adding drivers given that demand may be low in rural areas.
 
-The sharp drop in total fares in suburban areas at the end of February should be reviewed as the it dropped more severely than other city types. This would be down in the hopes of preventing another sharp drop in 2020.
+2. The sharp drop in total fares in suburban areas at the end of February should be reviewed as the it dropped more severely than other city types. This would be down in the hopes of preventing another sharp drop in 2020.
+
+3. The company could experiment with raising fare prices in Urban areas given that demand will likely always be high. This could be a way to maximize profits.
